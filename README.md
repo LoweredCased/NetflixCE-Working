@@ -68,6 +68,11 @@ Example Game:
 
 -Reopen Roblox And Restart The Whole Process
 
+-If NetflixCE Crashed Use NetflixProcessHandler
+
+![Capture oboh](https://github.com/LoweredCased/NetflixCE-Working/assets/152693425/bd7f0cfc-b91f-4772-8e5a-95736dbd1d64)
+
+
 
 
 
